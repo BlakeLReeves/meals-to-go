@@ -42,6 +42,6 @@ export const Open = styled(SvgXml)`
 `;
 
 export const Icon = styled.Image`
-  width: 15;
-  height: 15;
+  width: 15px;
+  height: 15px;
 `;
